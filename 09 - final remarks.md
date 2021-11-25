@@ -1,7 +1,0 @@
-# Final remarks 📝
-
-- Tailwind
-
-- Preact
-
-- ...

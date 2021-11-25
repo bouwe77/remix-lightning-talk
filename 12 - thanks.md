@@ -1,6 +1,6 @@
 # Thanks for listening! 🧔🏻‍♂️🙏🏻
 
-## Slides & code
+## Slides
 
 > https://github.com/bouwe77/remix-lightning-talk
 
