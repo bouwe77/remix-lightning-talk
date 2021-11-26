@@ -2,6 +2,6 @@
 
 - What is Remix?
 
-- Eliminating problems instead of solving them
+- Don't Solve Problems, Eliminate Them
 
 - Rails?
